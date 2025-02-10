@@ -10,7 +10,7 @@
     "publish": "npm publish --workspace packages/rescript-path-rebuild --workspace packages/path-rebuild"
   },
   "devDependencies": {
-    "esbuild": "^0.14.23",
+    "esbuild": "^0.25.0",
     "jest": "^27.5.1",
     "prettier": "2.5.1"
   },
